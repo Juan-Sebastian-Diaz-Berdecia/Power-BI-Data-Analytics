@@ -3,17 +3,29 @@
 ## Contenido:
 1. [Datos](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FJuan-Sebastian-Diaz-Berdecia%2FPower-BI-Data-Analytics%2Frefs%2Fheads%2Fmain%2FArchivos%2FDatos%252BVentas%252BElectroMax.xlsx&wdOrigin=BROWSELINK)
 2. [Contexto](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#dashboard-estatus-de-operaciones)
+3. [Contexto]()
+
+### Situación:
+El nuevo CEO de Electromas, una empresa de electrodomésticos del mercado minorista japonés, desea conocer el estatus de las operaciones de la empresa para tomar decisiones más informadas.
+Para ello desea saber:
+- ¿Cuántas unidades se venden?
+- Ingresos generados.
+- Márgenes de ganancia.
+- Comportamiento de los diferentes canales de venta.
+
+
+   
 ### Dashboard estatus de operaciones
-1. Volumen de ventas por ciudad.
+#### 1. Volumen de ventas por ciudad:
 <img width="1881" height="1083" alt="image" src="https://github.com/user-attachments/assets/9e683344-423c-47a4-b9af-51fe24fca6e6" />
 
-2. Ventas por categoría.
+#### 2. Ventas por categoría:
 <img width="1884" height="1073" alt="image" src="https://github.com/user-attachments/assets/14a1f9c4-e4c3-42ff-89f8-6a8748b31be4" />
 
-3. Ingresos, costos, beneficios y margen por ciudad.
+#### 3. Ingresos, costos, beneficios y margen por ciudad:
 <img width="1884" height="1072" alt="image" src="https://github.com/user-attachments/assets/be306eeb-57b3-4a90-93ab-98bf070042e4" />
 
-4. Ingresos, costos, beneficios y margen por categoría.
+#### 4. Ingresos, costos, beneficios y margen por categoría:
 <img width="1877" height="1068" alt="image" src="https://github.com/user-attachments/assets/36eea991-93f6-4dd7-a043-0ffd6ab465d6" />
 
 
