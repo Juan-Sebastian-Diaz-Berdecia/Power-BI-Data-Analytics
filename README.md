@@ -3,7 +3,7 @@
 ## Contenido:
 1. [Datos](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FJuan-Sebastian-Diaz-Berdecia%2FPower-BI-Data-Analytics%2Frefs%2Fheads%2Fmain%2FArchivos%2FDatos%252BVentas%252BElectroMax.xlsx&wdOrigin=BROWSELINK)
 2. [Situación](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#situaci%C3%B3n)
-3. [Contexto]()
+3. [Datos](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FJuan-Sebastian-Diaz-Berdecia%2FPower-BI-Data-Analytics%2Frefs%2Fheads%2Fmain%2FArchivos%2FDatos%252BVentas%252BElectroMax.xlsx&wdOrigin=BROWSELINK)
 
 ### Situación:
 El nuevo CEO de Electromas, una empresa de electrodomésticos del mercado minorista japonés, desea conocer el estatus de las operaciones de la empresa para tomar decisiones más informadas.
