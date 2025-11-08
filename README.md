@@ -10,4 +10,4 @@
 > [!IMPORTANT]
 > cvdfv
 
-<img width="1417" height="733" alt="image" src="https://github.com/user-attachments/assets/dd98502a-2efc-4d70-8e02-cb2f65eab71d" />
+<img width="1881" height="1083" alt="image" src="https://github.com/user-attachments/assets/9e683344-423c-47a4-b9af-51fe24fca6e6" />
