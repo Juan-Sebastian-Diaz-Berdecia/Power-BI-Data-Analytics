@@ -1,4 +1,6 @@
-# Panorama general de ventas e ingresos Electromas
+# Estatus de operaciones del mercado minorista de electrodomésticos Japonés 
+
+
 
 - Analisis de Ventas
 > [!NOTE]
