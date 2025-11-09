@@ -3,12 +3,13 @@
 ## Contenido:
 1. [Situación](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#situaci%C3%B3n):
    - [Power Point](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FJuan-Sebastian-Diaz-Berdecia%2FPower-BI-Data-Analytics%2Frefs%2Fheads%2Fmain%2FArchivos%2FElectromas_storytelling.pptx&wdOrigin=BROWSELINK)
-3. [Dashboard](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#dashboard-estatus-de-operaciones):
+2. [Dashboard](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#dashboard-estatus-de-operaciones):
    - [Volumen ventas por ciudad y canal](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#1-volumen-de-ventas-por-ciudad)
    - [Ventas por categoría](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#2-ventas-por-categor%C3%ADa)
    - [Ingresos, costos, beneficios y margen por ciudad](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#3-ingresos-costos-beneficios-y-margen-por-ciudad)
    - [Ingresos, costos, beneficios y margen por categoría](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#4-ingresos-costos-beneficios-y-margen-por-categor%C3%ADa)
-5. [Datos ventas](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FJuan-Sebastian-Diaz-Berdecia%2FPower-BI-Data-Analytics%2Frefs%2Fheads%2Fmain%2FArchivos%2FDatos%252BVentas%252BElectroMax.xlsx&wdOrigin=BROWSELINK)
+3.[Modelo de datos]()
+4. [Datos ventas](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FJuan-Sebastian-Diaz-Berdecia%2FPower-BI-Data-Analytics%2Frefs%2Fheads%2Fmain%2FArchivos%2FDatos%252BVentas%252BElectroMax.xlsx&wdOrigin=BROWSELINK)
 
 # 
 
@@ -36,3 +37,8 @@ Para ello desea saber:
 <img width="1877" height="1068" alt="image" src="https://github.com/user-attachments/assets/36eea991-93f6-4dd7-a043-0ffd6ab465d6" />
 
 # 
+
+### Modelo de datos
+<img width="1122" height="677" alt="image" src="https://github.com/user-attachments/assets/c199e199-d531-4394-bb47-dfd91c420dd9" />
+
+#
